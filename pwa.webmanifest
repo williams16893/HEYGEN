@@ -1,0 +1,16 @@
+{
+  "short_name": "Luma",
+  "name": "Luma",
+  "icons": [
+    {
+      "src": "https://lu.ma/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "start_url": "https://lu.ma/home",
+  "scope": "https://lu.ma/"
+}
